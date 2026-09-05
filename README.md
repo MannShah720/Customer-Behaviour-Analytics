@@ -22,24 +22,23 @@ A retail company wants to better understand its customers' shopping behaviour in
 
 The management team has observed changes in purchasing patterns across different **customer demographics, product categories, and purchasing behaviours**. They want to know which factors drive consumer decisions and repeat purchases.
 
-The objective of this project is to **leverage customer shopping data to identify meaningful trends and patterns that could support business decision-making**.
+Objective: **Leverage customer shopping data to identify meaningful trends and patterns that could support business decision-making**.
 
 The analysis aims to provide insights that could help the company:
 * Improve customer engagement
-* Strengthen customer loyalty and retention strategies
+* Strengthen customer loyalty
 * Optimise marketing
-* Identify opportunities to improve product strategies
+* Improve product strategies
 
 ---
 
 ## Dataset
 
-The project begins with a raw CSV file containing customer shopping data, containing details such as:
+The project begins with a raw CSV file containing customer shopping data such as:
 
 * **Customer demographic information**
 * **Items purchased**
 * **Purchase amounts**
-* **Product categories**
 * **Review ratings**
 * **Are they apart of a subscription service?**
 * **Has a discount been applied?**
