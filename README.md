@@ -20,14 +20,11 @@ The project follows an end-to-end data analytics workflow:
 
 A retail company wants to better understand its customers' shopping behaviour in order to improve **sales, customer satisfaction, and customer loyalty**.
 
-The management team has observed changes in purchasing patterns across different **customer demographics, product categories, and purchasing behaviours**. However, they need a clearer understanding of the factors influencing these patterns.
-
-They want to know which factors drive consumer decisions and repeat purchases.
+The management team has observed changes in purchasing patterns across different **customer demographics, product categories, and purchasing behaviours**. They want to know which factors drive consumer decisions and repeat purchases.
 
 The objective of this project is to **leverage customer shopping data to identify meaningful trends and patterns that could support business decision-making**.
 
 The analysis aims to provide insights that could help the company:
-
 * Improve customer engagement
 * Strengthen customer loyalty and retention strategies
 * Optimise marketing
