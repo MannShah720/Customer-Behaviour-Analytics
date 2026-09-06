@@ -14,7 +14,7 @@ The project follows an end-to-end data analytics workflow:
 5. Project report
 6. Presentation
 
-**Problem:** A retail company wants to better understand its customers' shopping behaviour in order to improve **sales, customer satisfaction, and customer loyalty**. The management team has observed changes in purchasing patterns and want to know which factors drive consumer decisions and repeat purchases.
+**Problem:** A retail company wants to better understand its customers' shopping behaviour in order to improve sales, customer satisfaction, and customer loyalty. The management team has observed changes in purchasing patterns and want to know which factors drive consumer decisions and repeat purchases.
 
 **Objective:** Leverage customer shopping data to identify meaningful trends and patterns that could support business decision-making.
 
