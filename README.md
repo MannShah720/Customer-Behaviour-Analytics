@@ -66,15 +66,16 @@ I used **PostgreSQL in pgAdmin** to analyse the cleaned dataset and answer key b
      
 3. Which are the top 5 products with the highest average review rating?
    * The five highest-rated products are Gloves, Sandals, Boots, Hat, and Skirt.
-   * These products could be useful candidates for promotional campaigns, recommendations, or featured products.
+   * These products could be useful candidates for promotional campaigns, recommendations, or premium pricing.
      
 4. How do average purchase amounts compare across shipping types?
    * Average purchase amount is highest for 2-Day Shipping, followed by Express, whereas Standard Shipping is the lowest.
    * Customers are willing to spend more on faster delivery options, especially for higher value purchases.
 
 5. Do subscribed customers spend more?
-   * Despite having 1,053 subscribers, subscribers only spend an average of £59.49, while non-subscribers spend £59.87.
-   * The current subscription programme may not be encouraging subscribers to spend more.
+   * Despite having 1,053 subscribers, they only spend an average of £59.49, while non-subscribers spend £59.87.
+   * The current subscription programme doesn't increase basket size or purchase frequency so may require more benefits / incentives
+   * However, even though a subscriber may spend a similar amount on average, they are more likely to stay with the company for longer
 
 6. Which 5 products have the highest percentage of purchases with discounts applied?
    * Hat, Sneakers, Coat, Sweater, and Pants have the highest percentage of purchases involving discounts.
@@ -82,7 +83,7 @@ I used **PostgreSQL in pgAdmin** to analyse the cleaned dataset and answer key b
 
 7. How can customers be segmented into New, Returning, and Loyal based on previous purchases?
    * Out of the 3900 customers, 3116 are loyal, 701 are returning and 83 are new.
-   * This is a strong indication of repeat purchasing behaviour and suggests that customer retention is an important characteristic of this dataset.
+   * There is strong customer loyalty but could indicate weak customer acquisition  
    
 8. What are the top 3 most purchased products within each category?
    * Accessories: Jewelry, Sunglasses, Belt
@@ -93,7 +94,7 @@ I used **PostgreSQL in pgAdmin** to analyse the cleaned dataset and answer key b
    
 9. Are repeat buyers (>5 previous purchases) more likely to subscribe?
     * Among the 3476 repeat buyers, only 958 are subscribed.
-    * This could mean that the current subscription model is not attractive enough for engaged customers
+    * The current subscription model is not attractive enough for engaged customers and there is a large target audience for subscription acquisition.
   
 10. How much revenue does each age group contribute?
     * Revenue is highest among Young Adults (18–30) and Middle-Aged (31–45)
